@@ -2,7 +2,7 @@
 ### 팀 전체 의견을 통합  
 
 ## Data set
-[소상공인시장진흥공단_상가(상권)정보](https://www.data.go.kr/data/15012005/fileData.do), [seoul_municipalities_geo_simple.json](https://github.com/CodeDiary18/Commercial-Districts-Analysis/blob/main/data/seoul_municipalities_geo_simple.json)
+[소상공인시장진흥공단_상가(상권)정보](https://www.data.go.kr/data/15012005/fileData.do), [seoul_municipalities_geo_simple.json](https://github.com/CodeDiary18/Commercial-Districts-Analysis/blob/main/data/seoul_municipalities_geo_simple.json), [TL_SCCO_SIG.json](https://github.com/CodeDiary18/Commercial-Districts-Analysis/blob/main/data/TL_SCCO_SIG.json)
 
 
 ## File introduction
